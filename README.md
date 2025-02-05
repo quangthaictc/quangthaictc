@@ -2,7 +2,7 @@
 
 **`Cyber Security (Intern/Penetration Tester/Red Team)`**
 
-I'm 🐵, and I am currently a student majoring in Cybersecurity. I have a strong passion for information security, especially in identifying and exploiting system vulnerabilities. My career goal is to become a skilled penetration tester and a valuable member of a Red Team, contributing to strengthening organizational defenses by thinking like an attacker. I am eager to learn, constantly improving my skills, and exploring new challenges in the field of ethical hacking and cybersecurity.
+I'm QuangThaiCTC from 🇻🇳, and I am currently a student majoring in Cybersecurity. I have a strong passion for information security, especially in identifying and exploiting system vulnerabilities. My career goal is to become a skilled penetration tester and a valuable member of a Red Team, contributing to strengthening organizational defenses by thinking like an attacker. I am eager to learn, constantly improving my skills, and exploring new challenges in the field of ethical hacking and cybersecurity.
 
    <p align="left">
       <a href="https://github.com/QuangThaiCTC?tab=followers">
