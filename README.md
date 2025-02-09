@@ -26,7 +26,7 @@ I'm QuangThaiCTC from 🇻🇳, and I am currently a student majoring in Cyberse
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=m00nk3y-T&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangthaictc&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=m00nk3y-T&theme=gruvbox&border_radius=4.5) -->
 
