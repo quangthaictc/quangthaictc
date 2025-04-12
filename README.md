@@ -11,6 +11,11 @@ I'm QuangThaiCTC from 🇻🇳, and I am currently a student majoring in Cyberse
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/quangthaictc?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+   <!-- contribution snake -->
+<p align="center">
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ### 🧰 Languages and Tools
