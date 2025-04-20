@@ -1,8 +1,8 @@
-# 🐵 QuangThaiCTC
+Hey there, I’m Quang Thái, also known as **S1lv3rF1sh (Silver Fish)**. Currently, I’m studying at HUFLIT (Ho Chi Minh City University of Foreign Languages and Information Technology), where I’m diving deep into areas I’m passionate about: Red Team, Pentesting, Web Exploits, and Pwn. I also have a keen interest in Reverse Engineering and Forensics, as I believe every challenge in cybersecurity offers a chance to grow.
 
-**`Cyber Security (Intern/Penetration Tester/Red Team)`**
+For me, this journey is more than just mastering techniques – it’s about exploring the world from a different perspective, where creativity and problem-solving skills come together. I love the rush of finding and fixing a vulnerability, uncovering a weakness that no one else thought about, and I’m always excited to share what I’ve learned with others, helping grow the cybersecurity community.
 
-I'm QuangThaiCTC from 🇻🇳, and I am currently a student majoring in Cybersecurity. I have a strong passion for information security, especially in identifying and exploiting system vulnerabilities. My career goal is to become a skilled penetration tester and a valuable member of a Red Team, contributing to strengthening organizational defenses by thinking like an attacker. I am eager to learn, constantly improving my skills, and exploring new challenges in the field of ethical hacking and cybersecurity.
+Every day is a new opportunity to challenge myself, improve my skills, and aim for bigger goals. Join me on this journey – where creativity and discovery know no bounds!
 
    <p align="left">
       <a href="https://github.com/QuangThaiCTC?tab=followers">
