@@ -36,3 +36,7 @@ Every day is a new opportunity to challenge myself, improve my skills, and aim f
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=m00nk3y-T&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+### My Trail
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3248856" style='border:none;'></iframe>
