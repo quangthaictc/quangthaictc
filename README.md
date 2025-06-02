@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff113afa-39a1-4d65-beb4-f60d5f388d21)   <!-- contribution snake -->
+<!-- contribution snake -->
 <p align="center">
     <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
 </p>
