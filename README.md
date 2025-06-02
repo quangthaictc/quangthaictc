@@ -39,4 +39,4 @@ Every day is a new opportunity to challenge myself, improve my skills, and aim f
 
 ### My Trail
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3248856" style='border:none;'></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3248856" style='border:none;'></img>
