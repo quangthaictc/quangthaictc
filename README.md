@@ -11,7 +11,7 @@ Every day is a new opportunity to challenge myself, improve my skills, and aim f
 
    <p align="left">
       <a href="https://github.com/QuangThaiCTC?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/quangthaictc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/QuangThaiCTC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/QuangThaiCTC?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/quangthaictc?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
