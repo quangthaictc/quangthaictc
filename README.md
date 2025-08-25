@@ -34,7 +34,6 @@ Every day is a new opportunity to challenge myself, improve my skills, and aim f
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangthaictc&show_icons=true&theme=gruvbox)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=m00nk3y-T&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=quangthaictc&theme=gruvbox&border_radius=4.5)
 
 #
