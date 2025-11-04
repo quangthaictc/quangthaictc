@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/quangthaictc/quangthaictc/output/snake.svg" alt="Snake animation" />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31333t5fsmolvxl3o4ueelsdavzq&unique={true|1|on|yes})
-
 ###
 
 <div align="center">
@@ -69,8 +67,12 @@ _**Trying to do better 🕸️ hehe!**_
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangthaictc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=quangthaictc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&cache_bust=1" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quangthaictc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31333t5fsmolvxl3o4ueelsdavzq&count={2})
 
 ###
