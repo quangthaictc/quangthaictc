@@ -72,7 +72,3 @@ _**Trying to do better 🕸️ hehe!**_
 </div>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31333t5fsmolvxl3o4ueelsdavzq&count={2})
-
-###
