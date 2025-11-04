@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Quang Thai from Viet Nam 🇻🇳<br>I am currently studying at **HUFLIT - Ho Chi Minh City University of Foreign Languages and Information Technology**</br></p>
+<p align="left">I'm Quang Thai from Viet Nam 🇻🇳<br>I am currently studying at <b>HUFLIT - Ho Chi Minh City University of Foreign Languages and Information Technology</b></br></p>
 
 _**Trying to do better 🕸️ hehe!**_
 
