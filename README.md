@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/quangthaictc/quangthaictc/output/snake.svg" alt="Snake animation" />
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31333t5fsmolvxl3o4ueelsdavzq&unique={true|1|on|yes})
+
 ###
 
 <div align="center">
