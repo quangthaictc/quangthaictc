@@ -1,4 +1,4 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31333t5fsmolvxl3o4ueelsdavzq&unique=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31333t5fsmolvxl3o4ueelsdavzq&count=1)
 
 <img src="https://raw.githubusercontent.com/quangthaictc/quangthaictc/output/snake.svg" alt="Snake animation" />
 
